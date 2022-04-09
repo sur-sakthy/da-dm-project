@@ -17,7 +17,7 @@ Models implemented in this project:
 - TBATS (Trigonometric seasonality, Box-Cox transformation, ARMA errors, Trend and Seasonal components)
 - Facebook/Meta Prophet
 
-The results obtained from running those models can be observed in the [report](report/"Forecasting In-Patient Waiting Times.pdf") as well as the .ipynb files (runnable in 
+The results obtained from running those models can be observed in the [report](report/) as well as the .ipynb files (runnable in 
 Google Colab).
 
 ## Jupyter Notebooks
